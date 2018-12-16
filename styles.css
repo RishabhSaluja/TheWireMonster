@@ -1,23 +1,7 @@
 body{
     font-family: "proxima-nova",sans-serif;
 }
-p.footer-header{
-    font-size: 1.9em;font-weight: 400;color: #FFF;line-height: 1.2em;letter-spacing: -0.05em;
-}
-p.footer-description{
-    font-size: 1.05em;
-    font-weight: 300;
-    line-height: 1.5em;
-    color: #a1a1a0;
-    letter-spacing: -0.05em;
-}
-.footer-description a, .copyright a{
-    color: #a1a1a0;
-}
-.footer-description a:hover, .copyright a:hover{
-    color: #f8dd61;
-    text-decoration: none;
-}
+
 div.we-are-wm {
     color: #363636;font-size: 3.375em;font-weight: 600;letter-spacing: -0.025em;
 }
@@ -32,29 +16,7 @@ div.description-text {
     letter-spacing: -0.025em;
     padding-bottom: 20px;
 }
-.copyright{
-float: right;
-font-size: 1.55em;
-font-weight: 400;
-line-height: 1.05em;
-color: #a1a1a0;
-letter-spacing: -0.05em;
-}
 
-.copyright-header{
-    text-align: right;
-    font-size: 1.00em;
-    padding-bottom: 15px;
-    margin-bottom: 0;
-}
-
-.copyright-footer{
-    text-align: right;
-    font-size: 0.95em;
-    padding-bottom: 15px;
-    border-bottom: solid 1px #555;
-    margin-bottom: 0;
-}
 .work-text{
     text-align: right;
 }
@@ -65,13 +27,6 @@ letter-spacing: -0.05em;
     }
     div.description-text {
         font-size: 1.3em;
-    }
-    p.footer-header{
-        font-size: 1.7em;
-    }
-    .copyright, .copyright-header, .copyright-footer, .acopy{
-        float: none !important;
-        text-align: center;
     }
     .work-button{
         text-align: center;
@@ -87,13 +42,6 @@ letter-spacing: -0.05em;
     div.description-text {
         font-size: 1.2em;
     }
-    p.footer-header{
-        font-size: 1.4em;
-    }
-    .copyright, .copyright-header, .copyright-footer, .acopy{
-        float: none !important;
-        text-align: center;
-    }
     .work-button{
         text-align: center;
     }    
@@ -108,16 +56,6 @@ letter-spacing: -0.05em;
     div.description-text {
         font-size: 15px;
         width: 18em;
-    }
-    p.footer-header{
-        font-size: 1.2em;
-    }
-    .address, .social, .copyright{
-        text-align: center;
-    }
-    .copyright, .copyright-header, .copyright-footer, .acopy{
-        float: none !important;
-        text-align: center;
     }
     .work-button{
         text-align: center;
